@@ -1,0 +1,20 @@
+.elemento-no-centro{
+  text-align: center;
+}
+div.a {
+  text-align: center;
+}
+.plano-de-fundo{
+  background-image: url("../img/moon.jpg");
+  background-position: 30% 45%;
+  background-size: cover;
+}
+.texto-branco{
+  color: white;
+}
+.sombra {
+  color: white; text-shadow: Cyan 0.1em 0.1em 0.2em
+}
+.ul {
+  list-style-type:none
+}
