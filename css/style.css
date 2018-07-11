@@ -1,6 +1,13 @@
 .elemento-no-centro{
   text-align: center;
+  margin bottom: 50px;
 }
+
+header .intro-text {
+  padding-top: 300px;
+  padding-bottom: 200px;
+}
+
 div.a {
   text-align: center;
 }
@@ -18,3 +25,16 @@ div.a {
 .ul {
   list-style-type:none
 }
+
+.color {
+    background-color: #1a5b95;
+}
+
+.circle{
+    width: 203px;
+    height: 203px;
+    background-color: #000;
+    color: #FFF;
+    border-radius: 50%;
+}
+    }
